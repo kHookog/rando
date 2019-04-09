@@ -1,0 +1,2 @@
+# rando
+hwids for loader
